@@ -5,9 +5,7 @@
     --primary-color: #f54747;
     --second-color: rgb(78, 77, 77);
 }
-:root {
-    --second-color: rgb(78, 77, 77);
-}
+
 
 * {
     margin: 0;
